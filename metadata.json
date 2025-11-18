@@ -1,0 +1,5 @@
+{
+  "name": "Threat Intel Agent",
+  "description": "This Agentic AI tries to leverage multiple MCP servers to query things such OpenCTI, Caldera, etc",
+  "requestFramePermissions": []
+}
